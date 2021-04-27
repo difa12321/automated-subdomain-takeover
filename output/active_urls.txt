@@ -1,2 +1,11 @@
+https://api.allsec.cn
+https://ce.allsec.cn
+https://help.allsec.cn
 https://huoxian.cn
+https://i.allsec.cn
+https://our-hive.allsec.cn
+https://static-images.allsec.cn
+https://vm.allsec.cn
+https://vm.api.allsec.cn
+https://www.allsec.cn
 https://www.huoxian.cn
